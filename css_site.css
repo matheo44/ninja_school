@@ -1,0 +1,20 @@
+h1{
+    color:red;
+
+}
+
+body{
+    background-color: rgb(58, 58, 58);
+   
+}
+#scale{
+    margin-right: 200px;
+}
+#H2{
+    color: red;
+}
+#img{
+    position:absolute;
+    width: 1000px;
+    height: 700px;
+}
